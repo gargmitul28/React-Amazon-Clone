@@ -1,6 +1,7 @@
 # React Amazon Clone
 
 ## Screenshots
+
 ![Screenshot](https://user-images.githubusercontent.com/68656122/153697012-dd472a28-b989-47e6-ab9b-593372c4525a.png)
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -47,7 +48,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
